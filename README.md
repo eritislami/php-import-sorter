@@ -1,6 +1,6 @@
 ## Features
 
-Sorts "use" import lines in php by length ascending
+When saving a php file, this extension will sort "use" import lines by length ascending.
 
 ## Known Issues
 
