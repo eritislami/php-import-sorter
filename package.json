@@ -2,7 +2,7 @@
     "name": "php-import-sorter",
     "displayName": "PHP Import Sort",
     "description": "Sorts php use import lines by length",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Eritislami",
     "repository": {
         "url": "https://github.com/eritislami/php-import-sorter"
